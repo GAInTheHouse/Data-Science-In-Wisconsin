@@ -1,5 +1,7 @@
 # Data-Science-In-Wisconsin
 
+Some content has been removed to ensure anonymity while evaluation of research paper.
+
 Data Analytics to arrive at Actionable Consequences for the City of Madison
 
 ## Fall 2020: Data Science In Wisconsin Course (COMP SCI 638)
